@@ -3,7 +3,7 @@
 <h3 align="center">Tenho 15 anos e codo principalmente em JavaScript.</h3>
 
 <p align="center">📌 CEO at <strong>Aura Network</strong></p>
-<p align="center">🌱 Estudo <strong>Java e SQL</strong></p>
+<p align="center">🌱 Estudando <strong>Java e SQL</strong></p>
 </div>
 <div align="center">
 <h2>🚀 Minha área</h2>
